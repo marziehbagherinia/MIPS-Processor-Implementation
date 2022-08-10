@@ -1,2 +1,2 @@
 # MIPS-Processor-Implementation
-This repository contains MIPS processor implementation in single cycle, multi cycle, and pipeline mode!
+This repository contains MIPS processor implementation in singlecycle, multicycle, and pipeline mode!
