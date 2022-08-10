@@ -1,0 +1,244 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+Z1 !s100 HHQoBz>_Y=ldGV]ILEf0;0
+Z2 Ib34zMnPKG?HXFeFQ?_dFH0
+Z3 VbK196zaE_86J[WcQ6f90B3
+Z4 dC:\Users\Marzieh\Downloads\net
+Z5 w1589890156
+Z6 8C:/Users/Marzieh/Downloads/net/Modules.v
+Z7 FC:/Users/Marzieh/Downloads/net/Modules.v
+Z8 L0 193
+Z9 OV;L;10.1d;51
+r1
+31
+Z10 !s108 1589893100.992000
+Z11 !s107 C:/Users/Marzieh/Downloads/net/Modules.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/Marzieh/Downloads/net/Modules.v|
+Z13 o-work work -O0
+Z14 n@a@l@u
+!i10b 1
+!s85 0
+!s101 -O0
+vALUController
+Z15 !s100 GEX:6`FhfO3=0[HINUGhC0
+Z16 IdTcQhB=TffeSkacY@bMQk0
+Z17 VK7ekj^YPVCBONLhZVBEY]2
+R4
+Z18 w1589889755
+Z19 8C:/Users/Marzieh/Downloads/net/ALUController.v
+Z20 FC:/Users/Marzieh/Downloads/net/ALUController.v
+L0 1
+R9
+r1
+31
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/Marzieh/Downloads/net/ALUController.v|
+R13
+Z22 n@a@l@u@controller
+Z23 !s108 1589893100.164000
+Z24 !s107 C:/Users/Marzieh/Downloads/net/ALUController.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController
+Z25 !s100 Z_]@@7]zJ;2EUJQ6aJCYA0
+Z26 If8>2=2<CU:=@@<=bK^<Kd2
+Z27 VP26YnkQ3PX<48EIMQO?X41
+R4
+Z28 w1589889854
+Z29 8C:/Users/Marzieh/Downloads/net/Controller.v
+Z30 FC:/Users/Marzieh/Downloads/net/Controller.v
+L0 1
+R9
+r1
+31
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/Marzieh/Downloads/net/Controller.v|
+R13
+Z32 n@controller
+Z33 !s108 1589893100.336000
+Z34 !s107 C:/Users/Marzieh/Downloads/net/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataPath
+!i10b 1
+Z35 !s100 =1DhNa[dU2:PaD3bPLmMK3
+Z36 I;zCA0dS]L:^@3XDL7Gi0j3
+Z37 VDiKlR5:B9@CDPOWT8jdmQ1
+R4
+Z38 w1589890817
+Z39 8C:/Users/Marzieh/Downloads/net/DataPath.v
+Z40 FC:/Users/Marzieh/Downloads/net/DataPath.v
+L0 1
+R9
+r1
+!s85 0
+31
+!s108 1589893102.086000
+!s107 C:/Users/Marzieh/Downloads/net/DataPath.v|
+Z41 !s90 -reportprogress|300|-work|work|C:/Users/Marzieh/Downloads/net/DataPath.v|
+!s101 -O0
+R13
+Z42 n@data@path
+vDataReg
+Z43 !s100 FVflQ58PX[lT3I;NaOQP[0
+Z44 IBNGC92lZPCHoIea89MAd63
+Z45 VP:DUED8BLF`kF9XIokR:D2
+R4
+R5
+R6
+R7
+Z46 L0 106
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z47 n@data@reg
+!i10b 1
+!s85 0
+!s101 -O0
+vInstReg
+Z48 !s100 f9@_X58[lGDz9YfE6CaU`1
+Z49 Inzg`<Q9oaz;GL098WE0e:3
+Z50 VHa;E2hJnnWhAEW_E[SoUK3
+R4
+R5
+R6
+R7
+L0 84
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z51 n@inst@reg
+!i10b 1
+!s85 0
+!s101 -O0
+vmemory
+Z52 !s100 M6DFhU64I;TP=6c6o2He^3
+Z53 IKjYHg3bWHR6T9R<`de0z<1
+Z54 VeVnPI9B?TigmVkNZz2_P>0
+R4
+R5
+R6
+R7
+L0 2
+R9
+r1
+31
+R10
+R11
+R12
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS
+Z55 !s100 nHDP1Q13gjl:MiEBBV<en0
+Z56 IP9:=mZ8oN_37VA45a7LK]0
+Z57 V^6km:h>^W^6B:Anz]bFjL3
+R4
+Z58 w1589892992
+Z59 8C:/Users/Marzieh/Downloads/net/MipsProcessor.v
+Z60 FC:/Users/Marzieh/Downloads/net/MipsProcessor.v
+L0 1
+R9
+r1
+31
+Z61 !s90 -reportprogress|300|-work|work|C:/Users/Marzieh/Downloads/net/MipsProcessor.v|
+R13
+Z62 n@m@i@p@s
+Z63 !s108 1589893100.555000
+Z64 !s107 C:/Users/Marzieh/Downloads/net/MipsProcessor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPSTestBench
+Z65 !s100 `mO5XX96[mWoOe?HHja740
+Z66 IzBj7XQWd@Pn9Sf?FaBILX2
+Z67 VQzZiDc298JDm:Dz:62]Z;0
+R4
+Z68 w1589890200
+Z69 8C:/Users/Marzieh/Downloads/net/MIPSTest.v
+Z70 FC:/Users/Marzieh/Downloads/net/MIPSTest.v
+L0 1
+R9
+r1
+31
+Z71 !s90 -reportprogress|300|-work|work|C:/Users/Marzieh/Downloads/net/MIPSTest.v|
+R13
+Z72 n@m@i@p@s@test@bench
+Z73 !s108 1589893100.774000
+Z74 !s107 C:/Users/Marzieh/Downloads/net/MIPSTest.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPCReg
+Z75 !s100 QK65IiG8fWAlTakjP=JnP3
+Z76 IWL9J8IL[j8zLk<Bo;N8l82
+Z77 VTf_g<BAT6e^f`FFn`E^We3
+R4
+R5
+R6
+R7
+L0 36
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z78 n@p@c@reg
+!i10b 1
+!s85 0
+!s101 -O0
+vReg
+Z79 !s100 QB36^O`:e?A?G20oCZ5dS2
+Z80 I7RD]W0UeN@YPBc7j13ocA3
+Z81 V>I@63SnnQ?GXGbHgJ8TcM1
+R4
+R5
+R6
+R7
+Z82 L0 174
+R9
+r1
+31
+R10
+R11
+R12
+R13
+n@reg
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFile
+Z83 !s100 6h8k=PJXK9ljlF<9n2A?g3
+Z84 IU::h9=PlIOlNRPd6EcZ4:1
+Z85 Vh7D`>]@^kWid[]V]TAMek1
+R4
+R5
+R6
+R7
+Z86 L0 125
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z87 n@reg@file
+!i10b 1
+!s85 0
+!s101 -O0

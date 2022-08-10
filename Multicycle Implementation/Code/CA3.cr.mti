@@ -1,0 +1,55 @@
+C:/Users/Marzieh/Downloads/net/Controller.v {1 {vlog -work work C:/Users/Marzieh/Downloads/net/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/Marzieh/Downloads/net/MipsProcessor.v {1 {vlog -work work C:/Users/Marzieh/Downloads/net/MipsProcessor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}} C:/Users/Marzieh/Downloads/net/Modules.v {1 {vlog -work work C:/Users/Marzieh/Downloads/net/Modules.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memory
+-- Compiling module PCReg
+-- Compiling module InstReg
+-- Compiling module DataReg
+-- Compiling module RegFile
+-- Compiling module Reg
+-- Compiling module ALU
+
+Top level modules:
+	memory
+	PCReg
+	InstReg
+	DataReg
+	RegFile
+	Reg
+	ALU
+
+} {} {}} C:/Users/Marzieh/Downloads/net/MIPSTest.v {1 {vlog -work work C:/Users/Marzieh/Downloads/net/MIPSTest.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPSTestBench
+
+Top level modules:
+	MIPSTestBench
+
+} {} {}} C:/Users/Marzieh/Downloads/net/ALUController.v {1 {vlog -work work C:/Users/Marzieh/Downloads/net/ALUController.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUController
+
+Top level modules:
+	ALUController
+
+} {} {}} C:/Users/Marzieh/Downloads/net/DataPath.v {1 {vlog -work work C:/Users/Marzieh/Downloads/net/DataPath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}}
